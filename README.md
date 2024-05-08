@@ -18,7 +18,7 @@ I’m Eleonora, a Software engineering and Cybersecurity student on a journey of
 <br>
 
 <a href="https://github.com/B4SEE/PJV">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=B4SEE&repo=PJV&title_color=EEEEEE&text_color=EEEEEE&icon_color=76ABAE&bg_color=31363F" alt="Pinned repository" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=B4SEE&repo=PJV&title_color=EEEEEE&text_color=EEEEEE&icon_color=76ABAE&bg_color=222831" alt="Pinned repository" />
 </a>
 
 <br>
@@ -30,11 +30,11 @@ I’m Eleonora, a Software engineering and Cybersecurity student on a journey of
 <br>
 
 <a href="https://github.com/B4SEE">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=B4SEE&show_icons=true&line_height=27&count_private=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=76ABAE&bg_color=31363F" alt="GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=B4SEE&show_icons=true&line_height=27&count_private=true&title_color=EEEEEE&text_color=EEEEEE&icon_color=76ABAE&bg_color=222831" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/B4SEE">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4SEE&hide=html,css&title_color=EEEEEE&text_color=EEEEEE&icon_color=76ABAE&bg_color=31363F" alt="GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4SEE&hide=html,css&title_color=EEEEEE&text_color=EEEEEE&icon_color=76ABAE&bg_color=222831" alt="GitHub Stats" />
 </a>
 
 <br>
