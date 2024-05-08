@@ -17,7 +17,7 @@ I’m Eleonora, a Software engineering and Cybersecurity student on a journey of
 
 <br>
 
-<a href="https://github.com/B4SEE/PJV">
+<a href="https://github.com/B4SEE/JavaGameEngine">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=B4SEE&repo=PJV&title_color=EEEEEE&text_color=EEEEEE&icon_color=76ABAE&bg_color=222831" alt="Pinned repository" />
 </a>
 
