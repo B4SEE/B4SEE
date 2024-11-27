@@ -5,7 +5,6 @@
 I am Eleonora, a Software engineering and Cybersecurity student on a journey of continuous learning and growth. My mission is to acquire knowledge and share it with others, all while striving to enhance my skills and capabilities.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eleonora-virych-a07505247)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:virichelia@gmail.com)
 
 ---
 
