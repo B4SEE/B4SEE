@@ -1,5 +1,4 @@
-
-![Profile Banner](https://github.com/user-attachments/assets/c8859450-eaa1-402d-a36c-309c195bfef9)
+![Profile Banner](https://github.com/user-attachments/assets/dc50224c-cf5a-4a6e-82d4-dbd0582bb600)
 
 ---
 
