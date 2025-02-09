@@ -3,17 +3,17 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1C79D2&vCenter=true&random=true&width=1200&separator=%3C&lines=%3A()%7B+%3A%7C%3A%26+%7D;%3A%3CYour+home+security+is+great...+or+is+it%3F%3CRunning+out+of+space%3F+Remove+the+French+language+pack%3A+sudo+rm+-fr+.%2F*%3Cthrow+new+Exception(%22CakeNotFoundException%22);%3CYour+code+is+great...+or+is+it%3F%3Cdef+easter_egg()%3A+print(%22%F0%9F%90%A3+Found+it!%22)%3C404%3A+Clean+Code+Not+Found%3CWake+up%2C+Samurai!+We+have+a+codebase+to+burn!%3CHey+Vsauce.+Michael+here%2C+your+submarine+is+very+safe...+or+is+it%3F%3CCode.+Repeat.+Practice.%3CHi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=509DE8&vCenter=true&random=true&width=1200&separator=%3C&lines=%3A()%7B+%3A%7C%3A%26+%7D;%3A%3CYour+home+security+is+great...+or+is+it%3F%3CRunning+out+of+space%3F+Remove+the+French+language+pack%3A+sudo+rm+-fr+.%2F*%3Cthrow+new+Exception(%22CakeNotFoundException%22);%3CYour+code+is+great...+or+is+it%3F%3Cdef+easter_egg()%3A+print(%22%F0%9F%90%A3+Found+it!%22)%3C404%3A+Clean+Code+Not+Found%3CWake+up%2C+Samurai!+We+have+a+codebase+to+burn!%3CHey+Vsauce.+Michael+here%2C+your+submarine+is+very+safe...+or+is+it%3F%3CCode.+Repeat.+Practice.%3CHi+there+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
 I am Eleonora, a Software engineering and Cybersecurity student on a journey of continuous learning and growth. My mission is to acquire knowledge and share it with others, all while striving to enhance my skills and capabilities.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-104478?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eleonora-virych-a07505247)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-1C76D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eleonora-virych-a07505247)
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=B4SEE&theme=dark&hide_border=true&card_width=1280&ring=1C79D2&fire=1C79D2&currStreakLabel=1C79D2&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=B4SEE&theme=dark&hide_border=true&card_width=1280&ring=509DE8&fire=509DE8&currStreakLabel=509DE8&background=0D1117)](https://git.io/streak-stats)
 
 ---
 
