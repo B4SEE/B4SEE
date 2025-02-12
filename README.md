@@ -12,7 +12,7 @@ I am Eleonora, a Software engineering and Cybersecurity student on a journey of 
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=B4SEE&theme=dark&hide_border=true&card_width=1280&ring=509DE8&fire=509DE8&currStreakLabel=509DE8&background=0D1117)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=B4SEE&theme=dark&hide_border=true&card_width=1280&ring=509DE8&fire=509DE8&currStreakLabel=509DE8&background=0D1117)
 
 ---
 
