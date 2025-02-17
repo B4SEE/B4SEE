@@ -10,9 +10,11 @@ I am Eleonora, a Software engineering and Cybersecurity student on a journey of 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-1C76D1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eleonora-virych-a07505247)
 
+<!--
 ---
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=B4SEE&theme=dark&hide_border=true&card_width=1280&ring=509DE8&fire=509DE8&currStreakLabel=509DE8&background=0D1117)
+-->
 
 ---
 
