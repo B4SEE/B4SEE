@@ -17,7 +17,7 @@ I am Eleonora, a Software engineering and Cybersecurity student on a journey of 
 -->
 
 ---
-
+<!--
 ### 💼 Skills
 
 <details><summary>Click to expand</summary>
@@ -41,8 +41,10 @@ I am Eleonora, a Software engineering and Cybersecurity student on a journey of 
 </details>
 
 ---
-
+-->
+<!--
 ![terminal](https://github.com/user-attachments/assets/3520665b-5f5f-40c3-b013-749e6fc85c87)
+-->
 
 <!--
 **B4SEE/B4SEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
