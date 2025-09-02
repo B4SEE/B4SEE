@@ -19,23 +19,8 @@
           box-sizing: border-box;
           text-align: left;
         }
-        summary.secret-summary {
-          cursor: pointer;
-          outline: none;
-          font-size: 1.2em;
-          color: #8bc34a;
-          padding-left: 0;
-          list-style: none;
-        }
-        /* Optional: subtle cue */
-        .secret-hint {
-          font-size: 0.9em;
-          color: #666;
-          margin-top: 8px;
-        }
       </style>
       <details>
-        <summary class="secret-summary">Just a subtle hint<span class="secret-hint">(nothing here... or is there?)</span></summary>
         <div style="margin-top:18px;">
           <b>Secret Unlocked:</b> You found the easter egg!
         </div>
