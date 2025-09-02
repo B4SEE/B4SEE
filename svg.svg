@@ -1,0 +1,45 @@
+<svg fill="none" viewBox="0 0 800 180" width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .secret-summary::-webkit-details-marker,
+        .secret-summary::marker {
+          display: none;
+          content: '';
+        }
+        details {
+          background: #181c20;
+          border-radius: 12px;
+          border: 2px solid #333;
+          width: 90%;
+          margin: 0 auto;
+          font-family: Segoe UI, Arial, sans-serif;
+          color: #fafafa;
+          padding: 18px;
+          box-sizing: border-box;
+          text-align: left;
+        }
+        summary.secret-summary {
+          cursor: pointer;
+          outline: none;
+          font-size: 1.2em;
+          color: #8bc34a;
+          padding-left: 0;
+          list-style: none;
+        }
+        /* Optional: subtle cue */
+        .secret-hint {
+          font-size: 0.9em;
+          color: #666;
+          margin-top: 8px;
+        }
+      </style>
+      <details>
+        <summary class="secret-summary">Just a subtle hint<span class="secret-hint">(nothing here... or is there?)</span></summary>
+        <div style="margin-top:18px;">
+          <b>Secret Unlocked:</b> You found the easter egg!
+        </div>
+      </details>
+    </div>
+  </foreignObject>
+</svg>
