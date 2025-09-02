@@ -1,28 +1,35 @@
-<svg fill="none" viewBox="0 0 800 180" width="800" height="180" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 200 50" width="200" height="50" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-        .secret-summary::-webkit-details-marker,
-        .secret-summary::marker {
+        details {
+          margin: 0;
+          padding: 0;
+          width: 32px;
+          height: 20px;
+        }
+        summary {
+          width: 24px;
+          height: 14px;
+          background: rgba(255,255,255,0.06);
+          border-radius: 4px;
+          margin: 16px 0 0 8px;
+          padding: 0;
+          outline: none;
+          border: 1px solid rgba(255,255,255,0.06);
+          list-style: none;
+          cursor: default;
+        }
+        summary::-webkit-details-marker,
+        summary::marker {
           display: none;
           content: '';
         }
-        details {
-          background: #181c20;
-          border-radius: 12px;
-          border: 2px solid #333;
-          width: 90%;
-          margin: 0 auto;
-          font-family: Segoe UI, Arial, sans-serif;
-          color: #fafafa;
-          padding: 18px;
-          box-sizing: border-box;
-          text-align: left;
-        }
       </style>
       <details>
-        <div style="margin-top:18px;">
-          <b>Secret Unlocked:</b> You found the easter egg!
+        <summary title="???"></summary>
+        <div style="margin:12px 0 0 0;font-size:1em;">
+          Secret
         </div>
       </details>
     </div>
